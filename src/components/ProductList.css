@@ -1,0 +1,39 @@
+.product-list {
+  padding: 16px;
+}
+
+.product-image {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.product-item {
+  margin-bottom: 12px;
+}
+
+.product-modal {
+  --height: 80%;
+  --border-radius: 16px 16px 0 0;
+}
+
+.product-form {
+  padding: 16px;
+}
+
+.product-price {
+  color: var(--ion-color-primary);
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.add-button {
+  margin: 16px;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+} 

@@ -14,9 +14,9 @@ import { ellipse, square, triangle, list, personAdd, person } from 'ionicons/ico
 import Tab1 from './pages/Tab1';
 import Tab2 from './pages/Tab2';
 import Tab3 from './pages/Tab3';
-import ProductList from './pages/ProductList';
-import RegistrationForm from './pages/RegistrationForm';
-import UserProfile from './pages/UserProfile';
+import ProductList from './components/ProductList';
+import RegistrationForm from './components/RegistrationForm';
+import UserProfile from './components/UserProfile';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
